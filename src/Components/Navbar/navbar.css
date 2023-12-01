@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  width: 100vw;
+  max-width: 100%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  background-color: cornflowerblue;
+  color: white;
+  justify-content: space-between;
+}
+.navlink {
+  color: white !important;
+  text-decoration: none !important;
+  font-size: 20px;
+}
+.rightnavbar {
+  display: flex;
+}
+.rightnavbar .navlink {
+  margin: 0px 10px;
+  white-space: nowrap;
+}

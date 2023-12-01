@@ -1,0 +1,15 @@
+.voterdetailss{
+    padding: 10px;
+    background-color: rgba(212, 54, 54,0.6);
+    border: 2px solid rgb(212, 54, 54);
+    margin: 5px;
+}
+.voterdetailss p{
+    margin-bottom: 10px;
+}
+.noelection{
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size:20px;
+}
